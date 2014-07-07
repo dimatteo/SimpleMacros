@@ -1,6 +1,7 @@
 // This macro makes a comparison of errors to understand 
 // what is the correct treatment of syst uncertainties
 
+
 using namespace std;
 
 void makeErrorComparison(){
